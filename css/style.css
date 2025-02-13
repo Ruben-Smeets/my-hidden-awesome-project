@@ -1,0 +1,16 @@
+h1{
+    color: red;
+    background-color: blue;
+}
+
+image{
+    border-width: 10px;
+    border-color: red;
+    border-style: solid;
+}
+p{ color: pink;}
+p#speciaal{color: lime;}
+body{
+    background-color: brown;
+    background-image: url(https://tenor.com/nl/view/jo-bonten-surival-expert-jo-bonten-man-bijt-hond-boodschappentas-gif-15199333)
+}
